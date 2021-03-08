@@ -7,6 +7,6 @@ Bounds on Velocity-dependent Dark Matter–Proton Scattering from Milky Way Sate
 `velocityDependentLimits.ipynb`: is the notebook used to generate both the numerical and analytic bounds<br>
 
 Necessary libraries:
-====================
+--------------------
 Please install the following libraries before running the notebook:<br>
 NumPy, Matplotlib, SciPy, Pandas, Tqdm 
